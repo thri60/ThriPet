@@ -1,0 +1,341 @@
+[{
+        "id": 1,
+        "name": "All",
+        "inactive": false
+    },
+    {
+        "id": 2,
+        "name": "Lhasa Apso"
+    },
+    {
+        "id": 3,
+        "name": "Boerboel"
+    },
+    {
+        "id": 4,
+        "name": "German Shepherd"
+    },
+    {
+        "id": 5,
+        "name": "Rottweiler"
+    },
+    {
+        "id": 6,
+        "name": "Caucasian Shepherd"
+    },
+    {
+        "id": 7,
+        "name": "Mongrel (No Breed)"
+    },
+    {
+        "id": 8,
+        "name": "Affenpinscher"
+    },
+    {
+        "id": 9,
+        "name": "Afghan Hound"
+    },
+    {
+        "id": 10,
+        "name": "Airedale Terrier"
+    },
+    {
+        "id": 11,
+        "name": "Akita"
+    },
+    {
+        "id": 12,
+        "name": "American English Coonhound"
+    },
+    {
+        "id": 13,
+        "name": "American Eskimo"
+    },
+    {
+        "id": 14,
+        "name": "American Foxhound"
+
+    },
+    {
+        "id": 15,
+        "name": "American Pit Bull Terrier"
+
+    },
+    {
+        "id": 16,
+        "name": "Anatolian Shepherd"
+
+    },
+    {
+        "id": 17,
+        "name": "Australian Shepherd"
+
+    },
+    {
+        "id": 18,
+        "name": "Australian Terrier"
+
+    },
+    {
+        "id": 19,
+        "name": "Basenji"
+    },
+    {
+        "id": 20,
+        "name": "Beagle"
+    },
+    {
+        "id": 21,
+        "name": "Bearded Collie"
+    },
+    {
+        "id": 22,
+        "name": "Belgian Malinois"
+    },
+    {
+        "id": 23,
+        "name": "Belgian Sheepdog"
+    },
+    {
+        "id": 24,
+        "name": "Black Russian Terrier"
+
+    },
+    {
+        "id": 25,
+        "name": "Border Terrier"
+    },
+    {
+        "id": 26,
+        "name": "Boston Terrier"
+    },
+    {
+        "id": 27,
+        "name": "Boxer"
+    },
+    {
+        "id": 28,
+        "name": "Bracco Italiano"
+    },
+    {
+        "id": 29,
+        "name": "Bull Terrier"
+    },
+    {
+        "id": 30,
+        "name": "Bulldog"
+    },
+    {
+        "id": 31,
+        "name": "Bullmastiff"
+    },
+
+
+    {
+        "id": 32,
+        "name": "Cane Corso"
+    },
+
+    {
+        "id": 33,
+        "name": "Chihuahua"
+    },
+
+    {
+        "id": 34,
+        "name": "Chinese Shar-Pei"
+    },
+
+    {
+        "id": 35,
+        "name": "Chow Chow"
+    },
+    {
+        "id": 36,
+        "name": "Dachshund"
+    },
+    {
+        "id": 37,
+        "name": "Dalmatian"
+    },
+    {
+        "id": 38,
+        "name": "Doberman Pinscher"
+    },
+
+    {
+        "id": 39,
+        "name": "French Bulldog"
+    },
+
+    {
+        "id": 40,
+        "name": "German Pinscher"
+    },
+
+    {
+        "id": 41,
+        "name": "German Shorthaired Pointer"
+    },
+
+    {
+        "id": 42,
+        "name": "German Wirehaired Pointer"
+    },
+
+    {
+        "id": 43,
+        "name": "Giant Schnauzer"
+    },
+
+    {
+        "id": 44,
+        "name": "Golden Retriever"
+    },
+
+    {
+        "id": 45,
+        "name": "Great Dane"
+    },
+
+    {
+        "id": 46,
+        "name": "Havanese"
+    },
+
+
+    {
+        "id": 47,
+        "name": "Irish Terrier"
+    },
+
+    {
+        "id": 48,
+        "name": "Jack Russell Terrier"
+    },
+
+    {
+        "id": 49,
+        "name": "Japanese Chin"
+    },
+
+    {
+        "id": 50,
+        "name": "Labrador Retriever "
+    },
+
+    {
+        "id": 51,
+        "name": "Lancashire Heeler"
+    },
+
+    {
+        "id": 52,
+        "name": "Maltese"
+    },
+
+    {
+        "id": 53,
+        "name": "Maltese Shih Tzu"
+    },
+
+    {
+        "id": 54,
+        "name": "Mastiff"
+    },
+
+    {
+        "id": 55,
+        "name": "Neapolitan Mastiff "
+    },
+
+    {
+        "id": 56,
+        "name": "Pekingese"
+    },
+
+    {
+        "id": 57,
+        "name": "Pembroke Welsh Corgi"
+    },
+
+    {
+        "id": 58,
+        "name": "Pomeranian"
+    },
+
+    {
+        "id": 59,
+        "name": "Poodle"
+    },
+
+    {
+        "id": 60,
+        "name": "Pug"
+    },
+
+    {
+        "id": 61,
+        "name": "Rhodesian Ridgeback"
+    },
+
+    {
+        "id": 62,
+        "name": "Saint Bernard"
+    },
+
+    {
+        "id": 63,
+        "name": "Samoyed "
+    },
+
+    {
+        "id": 64,
+        "name": "Shih Tzu"
+    },
+
+    {
+        "id": 65,
+        "name": "Siberian Husky"
+    },
+
+    {
+        "id": 66,
+        "name": "Skye Terrier"
+    },
+
+    {
+        "id": 67,
+        "name": "Staffordshire Bull Terrier"
+    },
+
+    {
+        "id": 68,
+        "name": "Tibetan Mastiff"
+    },
+
+    {
+        "id": 69,
+        "name": "Toy Fox Terrier"
+    },
+
+    {
+        "id": 70,
+        "name": "West Highland White Terrier"
+    },
+
+    {
+        "id": 71,
+        "name": "Wirehaired Pointing Griffon "
+    },
+
+    {
+        "id": 72,
+        "name": "Yorkshire Terrier "
+    },
+
+    {
+        "id": 73,
+        "name": "Not Specified"
+    }
+]

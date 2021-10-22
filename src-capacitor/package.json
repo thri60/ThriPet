@@ -1,0 +1,12 @@
+{
+  "name": "thri60",
+  "version": "0.0.1",
+  "description": "An Pet Haven App",
+  "author": "Michael <67415283+thri60@users.noreply.github.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.4.6",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
